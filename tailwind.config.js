@@ -4,9 +4,9 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                'text-primary': '#FFFFFF',
-                primary: '#21201E',
-                secondary: '#343330',
+                'text-primary': '#BDFFFD',
+                primary: '#6E44FF',
+                secondary: '#FE64A3',
             },
             animation: {
                 'spin-slow': 'spin 3s linear infinite',
